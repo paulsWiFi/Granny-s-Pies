@@ -1,0 +1,7 @@
+Github HTTPS Link
+
+https://github.com/paulsWiFi/Grannys_Pies_Assignment.git
+
+Github CLI Link
+
+gh repo clone paulsWiFi/Grannys_Pies_Assignment
